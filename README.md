@@ -57,17 +57,6 @@ After publication review, these are the six repositories that should anchor the 
 5. `platform-engineering-playbook` - API governance, lifecycle, versioning, developer portal operating model, OAuth, events, MCP, platform KPIs.
 6. `system-design-portfolio` - case studies for AI platforms, developer portals, API marketplaces, identity, billing, event buses, and notifications.
 
-## Selected Repository Roadmap
-
-These are the portfolio repositories and tracks I am shaping around the target role profile:
-
-- `BuildAI-frontend` - AI product frontend, agent/workflow UX, documentation-as-product, governance-aware SaaS surfaces.
-- `buildai-backend` - AI platform backend, agent runtime boundaries, tenancy, memory/context, queues, billing readiness, Azure deployment.
-- `Amakora-developer-portal-frontend` - developer portal UX, API discovery, docs experience, onboarding, API Explorer, MCP setup.
-- `amakora-developer-portal-backend` - API platform backend, API keys, MCP support, audit logs, security governance, multi-tenant design.
-- `platform-engineering-playbook` - API governance, lifecycle, versioning, developer portal operating model, OAuth, events, MCP, platform KPIs.
-- `system-design-portfolio` - case studies for AI platforms, developer portals, API marketplaces, identity, billing, event buses, and notifications.
-
 ## Background Highlights
 
 - Led API marketplace and developer experience work at Interswitch.
