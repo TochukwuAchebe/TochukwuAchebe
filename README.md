@@ -48,14 +48,14 @@ Some repositories are active product codebases and remain private until full pub
 
 ## Recommended Pins
 
-After publication review, these are the six repositories that should anchor the profile:
+These are the six repositories that should anchor the profile. The documentation-first repos are public now; the active product repos should remain private until full publication review is complete.
 
 1. `BuildAI-frontend` - AI product frontend, agent/workflow UX, documentation-as-product, governance-aware SaaS surfaces.
 2. `buildai-backend` - AI platform backend, agent runtime boundaries, tenancy, memory/context, queues, billing readiness, Azure deployment.
 3. `Amakora-developer-portal-frontend` - developer portal UX, API discovery, docs experience, onboarding, API Explorer, MCP setup.
 4. `amakora-developer-portal-backend` - API platform backend, API keys, MCP support, audit logs, security governance, multi-tenant design.
-5. `platform-engineering-playbook` - API governance, lifecycle, versioning, developer portal operating model, OAuth, events, MCP, platform KPIs.
-6. `system-design-portfolio` - case studies for AI platforms, developer portals, API marketplaces, identity, billing, event buses, and notifications.
+5. [`platform-engineering-playbook`](https://github.com/TochukwuAchebe/platform-engineering-playbook) - API governance, lifecycle, versioning, developer portal operating model, OAuth, events, MCP, platform KPIs.
+6. [`system-design-portfolio`](https://github.com/TochukwuAchebe/system-design-portfolio) - case studies for AI platforms, developer portals, API marketplaces, identity, billing, event buses, and notifications.
 
 ## Background Highlights
 
