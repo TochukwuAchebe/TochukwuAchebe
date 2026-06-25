@@ -46,6 +46,17 @@ Some repositories are active product codebases and remain private until full pub
 - Cloud deployment, Azure Container Apps, PostgreSQL, secrets management, observability, and security reviews
 - Technical product strategy, PRDs, roadmap planning, architecture decision records, and platform operating models
 
+## Recommended Pins
+
+After publication review, these are the six repositories that should anchor the profile:
+
+1. `BuildAI-frontend` - AI product frontend, agent/workflow UX, documentation-as-product, governance-aware SaaS surfaces.
+2. `buildai-backend` - AI platform backend, agent runtime boundaries, tenancy, memory/context, queues, billing readiness, Azure deployment.
+3. `Amakora-developer-portal-frontend` - developer portal UX, API discovery, docs experience, onboarding, API Explorer, MCP setup.
+4. `amakora-developer-portal-backend` - API platform backend, API keys, MCP support, audit logs, security governance, multi-tenant design.
+5. `platform-engineering-playbook` - API governance, lifecycle, versioning, developer portal operating model, OAuth, events, MCP, platform KPIs.
+6. `system-design-portfolio` - case studies for AI platforms, developer portals, API marketplaces, identity, billing, event buses, and notifications.
+
 ## Selected Repository Roadmap
 
 These are the portfolio repositories and tracks I am shaping around the target role profile:
@@ -84,5 +95,3 @@ If you are a recruiter or hiring manager, start with the pinned repositories and
 - Developer experience and onboarding flows
 
 The goal is to show how I connect product strategy and engineering architecture, especially for AI products, APIs, integrations, cloud platforms, and developer ecosystems.
-
-> GitHub note: this repository is a public portfolio landing page. To make this README appear automatically on the GitHub profile overview, GitHub requires a special repository named exactly `TochukwuAchebe/TochukwuAchebe`.
