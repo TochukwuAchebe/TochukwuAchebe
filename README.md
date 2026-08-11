@@ -69,7 +69,7 @@ I distinguish between a local implementation, a published repository, a deployed
 
 - Portfolio: https://tochukwuachebe.com
 - LinkedIn: https://www.linkedin.com/in/tochiii
-- YouTube: https://youtube.com/@tochiistudio
+- YouTube: https://youtube.com/@learnwithtochii
 - Writing: https://tochukwuachebe.com/blog
 
 ## How To Review This GitHub
