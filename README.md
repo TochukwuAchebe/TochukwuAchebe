@@ -1,84 +1,86 @@
 # Tochii Achebe
 
-**Head of Platforms | AI Product Leader | APIs, Developer Platforms & AI Infrastructure**
+**Product Engineer | Head of Platforms | AI Product Leader | APIs, Developer Platforms & AI Infrastructure**
 
-London-based technical product leader, founder of Amakora Group, and builder across AI products, API platforms, developer ecosystems, integrations, and systems architecture.
+London-based technical product leader working across AI products, platform strategy, API ecosystems, integrations, fintech infrastructure, developer experience, and systems architecture.
 
-This GitHub is my public technical product portfolio. It is designed for recruiters, hiring managers, founders, and engineering leaders who want to understand how I think about platform strategy, AI product architecture, API ecosystems, developer experience, governance, security, and execution.
+I have led API marketplace and developer ecosystem work, including the Interswitch API Marketplace and developer community, and worked across platform integrations at RedCloud. I am currently building Amakora Group products across BuildAI, Nexra, and Synaptiq: AI workflows, developer platforms, governed integrations, documentation, and engineering control-plane patterns.
 
-> Public showcase repositories are sanitized portfolio versions based on real product experience. They use mock data, fictional examples, simplified architecture patterns, and clear disclaimers rather than private client code or confidential implementation details.
+This GitHub is a technical product portfolio. It is designed to show how I think about platform architecture, API product strategy, developer experience, AI agent workflows, system boundaries, and delivery tradeoffs.
 
 ## Current Focus
 
-- AI products, AI agents, governed workflows, memory, approvals, and auditability.
-- API marketplaces, developer portals, partner ecosystems, integrations, and API lifecycle governance.
-- Multi-tenant SaaS architecture, IAM, OAuth, OpenAPI, webhooks, events, observability, and cloud deployment.
-- Product strategy, PRDs, architecture decision records, operating models, platform KPIs, and technical storytelling.
-- Teaching API product management, system design, platform strategy, and developer experience.
+- AI products, AI agents, and applied AI infrastructure
+- Developer platforms, API marketplaces, and partner ecosystems
+- OpenAPI, API governance, OAuth/JWT, webhooks, and lifecycle design
+- Multi-tenant SaaS architecture and cloud platform patterns
+- Product architecture, platform strategy, and technical product leadership
+
+## Latest Project Evidence
+
+- **BuildAI:** governed execution evidence, cost and outcome provenance, evaluation scorecards, release gates, explicit gate overrides, enterprise budget/model-routing controls, and CLI authentication/deployment capability contracts.
+- **Nexra:** authenticated developer-portal console stories for Connect, MCP, and Verify, with product guidance kept outside data-dependent states and release verification tied to typecheck, build, end-to-end smoke coverage, revision health, traffic, and live HTTP checks.
+- **Synaptiq:** workspace-scoped documentation, comments and activity, a setup-gated GitHub read model, cloud-resource read boundaries, durable AI execution context, approval/idempotency controls, and deterministic engineering intelligence. External provider credentials and mutation paths remain explicitly setup- and policy-gated.
+
+The public repositories are sanitized portfolio versions. They explain the product and architecture decisions without publishing private source code, customer data, credentials, or unsupported claims about provider availability.
 
 ## What I Build
 
-- AI-enabled products that turn complex workflows into useful software systems.
-- Developer platforms that make APIs easier to discover, test, integrate, govern, and scale.
-- Product architecture artifacts that connect customer problems, technical decisions, delivery risks, metrics, and roadmaps.
-- Reference implementations and case studies that explain system design decisions clearly.
-- Teaching material for product managers, founders, and platform teams working with APIs and technical systems.
+- AI-enabled products that turn workflows into useful software systems
+- Developer portals that make APIs easier to discover, test, integrate, and scale
+- API platform patterns for onboarding, authentication, versioning, webhooks, and usage analytics
+- Product architecture documents that connect customer problems, technical decisions, risks, and roadmaps
+- Reference implementations and case studies that explain system design decisions clearly
 
-## Public Showcase Portfolio
+## Featured Work
 
-| Repository | What it demonstrates |
-| --- | --- |
-| [`buildai-public-showcase`](https://github.com/TochukwuAchebe/buildai-public-showcase) | Governed AI agent platform architecture: agents, workflows, Memory Hub, approvals, model routing, analytics, audit trails, and security. |
-| [`api-marketplace-showcase`](https://github.com/TochukwuAchebe/api-marketplace-showcase) | API catalogue, developer onboarding, app registration, API keys, partner onboarding, governance, analytics, versioning, and deprecation. |
-| [`ai-mis-analytics-showcase`](https://github.com/TochukwuAchebe/ai-mis-analytics-showcase) | AI analytics assistant for MIS reporting: natural language querying, explainability, predictive insights, RBAC, auditability, and evaluation. |
-| [`trustscore-showcase`](https://github.com/TochukwuAchebe/trustscore-showcase) | ML-assisted decisioning reference: consent, alternative data, explainability, auditability, compliance, fairness, and decision rules. |
-| [`branch-optimization-showcase`](https://github.com/TochukwuAchebe/branch-optimization-showcase) | Branch and queue optimization: wait-time prediction, routing, load balancing, dashboard concepts, and operational product design. |
-| [`technical-product-management-teaching`](https://github.com/TochukwuAchebe/technical-product-management-teaching) | API product management curriculum covering system design, IAM, OpenAPI, event-driven architecture, governance, and platform strategy. |
-| [`platform-engineering-playbook`](https://github.com/TochukwuAchebe/platform-engineering-playbook) | Platform operating model, API governance, lifecycle management, OAuth, events, MCP-enabled platforms, KPIs, and architecture decision records. |
-| [`system-design-portfolio`](https://github.com/TochukwuAchebe/system-design-portfolio) | Architecture case studies across AI platforms, developer portals, API marketplaces, identity, billing, event buses, and notifications. |
+| Area | Repository | What it demonstrates |
+| --- | --- | --- |
+| AI product platform | [`buildai-public-showcase`](https://github.com/TochukwuAchebe/buildai-public-showcase) | Governed AI workflows, evaluation evidence, release gates, routing, and deployment thinking |
+| Developer ecosystem | [`platform-engineering-playbook`](https://github.com/TochukwuAchebe/platform-engineering-playbook) | API governance, Nexra-style developer-platform boundaries, MCP, identity, and operations |
+| API platform | [`api-marketplace-showcase`](https://github.com/TochukwuAchebe/api-marketplace-showcase) | OpenAPI, auth flows, webhooks, lifecycle governance, and developer experience |
+| Systems design | [`system-design-portfolio`](https://github.com/TochukwuAchebe/system-design-portfolio) | Architecture case studies, reliability, cloud, identity, billing, and AI systems |
+| AI analytics | [`ai-mis-analytics-showcase`](https://github.com/TochukwuAchebe/ai-mis-analytics-showcase) | Explainable analytics, evaluation, RBAC, auditability, and governed data use |
+| Product teaching | [`technical-product-management-teaching`](https://github.com/TochukwuAchebe/technical-product-management-teaching) | API product management, platform strategy, system design, and DevEx education |
+
+Some repositories are reference implementations or architecture case studies rather than production systems. I label them clearly so reviewers can tell what is live, what is in progress, and what is meant to demonstrate technical judgment.
 
 ## Technical Domains
 
-- AI agents, workflow automation, tool calling, memory, approvals, RAG, governance, and auditability.
-- API platforms, developer portals, API marketplaces, OpenAPI, OAuth 2.0, JWT, webhooks, SDK readiness, and lifecycle management.
-- Multi-tenant SaaS, event-driven systems, integrations, partner platforms, cloud deployment, and observability.
-- Product strategy, technical product management, platform operating models, PRDs, ADRs, roadmaps, launch planning, and metrics frameworks.
-- Systems architecture, solution design, security reviews, deployment planning, and developer experience.
+- AI agents and workflow automation
+- API marketplaces and developer platforms
+- OpenAPI, REST APIs, OAuth 2.0, JWT, webhooks, SDKs, and API governance
+- Multi-tenant SaaS, event-driven systems, integrations, and partner platforms
+- Cloud deployment, observability, security reviews, and platform operating models
+- Technical product strategy, PRDs, roadmap planning, and architecture decision records
+
+## Evidence and Release Language
+
+I distinguish between a local implementation, a published repository, a deployed candidate, and live production behavior. Where an external provider, credential, worker, or feature flag is not configured, the portfolio labels it as setup-gated rather than presenting a simulated success.
 
 ## Background Highlights
 
-- Led API marketplace and developer ecosystem work at Interswitch.
+- Led API marketplace and developer experience work at Interswitch.
 - Worked on platform integrations and product/platform execution at RedCloud.
 - Building Amakora Group products across AI, developer tooling, education, and advisory systems.
 - Based in London and open to global, UK, and U.S. remote-first or visa-sponsoring opportunities.
 
-## Recommended Public Pins
-
-1. [`buildai-public-showcase`](https://github.com/TochukwuAchebe/buildai-public-showcase)
-2. [`api-marketplace-showcase`](https://github.com/TochukwuAchebe/api-marketplace-showcase)
-3. [`ai-mis-analytics-showcase`](https://github.com/TochukwuAchebe/ai-mis-analytics-showcase)
-4. [`trustscore-showcase`](https://github.com/TochukwuAchebe/trustscore-showcase)
-5. [`platform-engineering-playbook`](https://github.com/TochukwuAchebe/platform-engineering-playbook)
-6. [`system-design-portfolio`](https://github.com/TochukwuAchebe/system-design-portfolio)
-
-Secondary public repos to surface in conversations: `branch-optimization-showcase` and `technical-product-management-teaching`.
-
-## Writing, Teaching, And Content
+## Links
 
 - Portfolio: https://tochukwuachebe.com
-- Writing: https://tochukwuachebe.com/blog
 - LinkedIn: https://www.linkedin.com/in/tochiii
 - YouTube: https://youtube.com/@tochiistudio
-- GitHub: https://github.com/TochukwuAchebe
+- Writing: https://tochukwuachebe.com/blog
 
 ## How To Review This GitHub
 
-If you are a recruiter or hiring manager, start with the pinned repositories and read the READMEs first. The highest-signal artifacts are usually:
+If you are a recruiter or hiring manager, start with the pinned repositories. The highest-signal artifacts are usually:
 
-- Architecture diagrams and product architecture notes.
-- Product requirements documents and strategy briefs.
-- OpenAPI specs, API lifecycle guides, and developer experience flows.
-- Security, deployment, governance, and auditability notes.
-- Roadmaps, ADRs, metrics frameworks, and trade-off explanations.
+- The README overview
+- Architecture diagrams
+- Product requirement documents
+- API specs
+- Security and deployment notes
+- Roadmaps and tradeoff sections
 
-The goal is to show how I connect product strategy with engineering architecture, especially for AI products, API platforms, integrations, cloud systems, and developer ecosystems.
+The goal is to show the way I connect product strategy and engineering architecture, especially for AI products, APIs, integrations, and developer platforms.
