@@ -7,7 +7,7 @@
 **Building the infrastructure that helps organisations move from experimenting with AI to operating it responsibly at scale.**
 
 [![Google AI Fellow 2026](https://img.shields.io/badge/Google_AI_Fellow-2026-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://tochukwuachebe.com)
-[![Founder, Amakora](https://img.shields.io/badge/Founder-Amakora_Group-111827?style=for-the-badge)](https://amakoragroup.com)
+[![Founder, Amakora](https://img.shields.io/badge/Founder-Amakora-111827?style=for-the-badge)](https://amakoragroup.com)
 [![London](https://img.shields.io/badge/London-United_Kingdom-0F766E?style=for-the-badge)](https://tochukwuachebe.com)
 
 [Website](https://tochukwuachebe.com) · [Amakora](https://amakoragroup.com) · [Substack](https://tochiiachebe.substack.com) · [LinkedIn](https://www.linkedin.com/in/tochiii) · [YouTube](https://youtube.com/@learnwithtochii)
@@ -18,7 +18,7 @@
 
 ## I build at the intersection of AI, product and infrastructure
 
-I am a Nigerian-born, London-based founder, product engineer and **Google AI Fellow 2026**. I founded [Amakora Group](https://amakoragroup.com), an applied AI company building products that make powerful AI systems more useful, governable and accessible.
+I am a Nigerian-born, London-based founder, product engineer and **Google AI Fellow 2026**. I founded [Amakora](https://amakoragroup.com), an applied AI company building products that make powerful AI systems more useful, governable and accessible.
 
 My work sits between customer need and deep technical execution: translating real organisational problems into product strategy, platform architecture and working software. Before Amakora, I led platform and developer ecosystem work across **Interswitch** and **RedCloud**. My wider perspective has also been shaped by study at **Stanford Graduate School of Business**.
 
@@ -76,7 +76,7 @@ I also share video lessons through [Learn with Tochii on YouTube](https://youtub
 
 ## Experience and perspective
 
-- Founder of **Amakora Group**, building applied AI products and enterprise platforms
+- Founder of **Amakora**, building applied AI products and enterprise platforms
 - **Google AI Fellow 2026**
 - Former platform leader at **Interswitch** and **RedCloud**
 - Studied at **Stanford Graduate School of Business**
